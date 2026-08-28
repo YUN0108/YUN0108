@@ -14,19 +14,16 @@
 
 ### 🛠️ Skills
 
-#### Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-5C4EE5?style=flat-square"/>
+**Languages**  
+<img src="https://img.shields.io/badge/C-4B5563?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-4B5563?style=flat"/>
 
-#### Embedded
-<img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square"/>
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square"/>
+**Embedded**  
+<img src="https://img.shields.io/badge/STM32CubeMX-5B8DEF?style=flat"/>
+<img src="https://img.shields.io/badge/STM32CubeIDE-5B8DEF?style=flat"/>
 
-#### FPGA
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square"/>
-
-</div>
-
+**FPGA**  
+<img src="https://img.shields.io/badge/Xilinx_Vivado-4B5563?style=flat"/>
 <!--
 **YUN0108/YUN0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
