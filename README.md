@@ -3,31 +3,24 @@
 ## 🔗 Contact & Portfolio
 
 <a href="mailto:jhyun6658@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7FA9C4?style=flat-square&logo=gmail&logoColor=white"/>
-</a><br/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a><br/><br>
 
 <a href="https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5">
-  <img src="https://img.shields.io/badge/Notion-Portfolio-7FA9C4?style=flat-square&logo=notion&logoColor=white&labelColor=5F6F7A"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
 
-## 🛠 Skills
+## ⚒️ Skills
 
 ### Languages
-
-<img src="https://img.shields.io/badge/C-7FA9C4?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-6F8090?style=flat-square&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Verilog-5C4EE5?style=flat-square&logoColor=white"/>
 
 ### Embedded
-
-<img src="https://img.shields.io/badge/STM32CubeMX-7FA9C4?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32CubeIDE-6F8090?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/> <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 
 ### FPGA
-
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-7FA9C4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logoColor=white"/>
 <!--
 **YUN0108/YUN0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
