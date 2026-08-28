@@ -1,9 +1,8 @@
 # Hi, I'm Jihyeon 🦕
 
-📧 [jhyun6658@gmail.com](mailto:jhyun6658@gmail.com) 
-📂 [Notion Portfolio][(https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5)]
+📧 [jhyun6658@gmail.com](mailto:jhyun6658@gmail.com) <br/>
+📂 [Notion Portfolio][(https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5)] <br/>
 
-<br/><br/>
 
 ### 🛠️ Skills
 
