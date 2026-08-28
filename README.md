@@ -4,7 +4,7 @@
 
 <a href="mailto:jhyun6658@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a><br/><br>
+</a><br/>
 
 <a href="https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
