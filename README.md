@@ -9,6 +9,7 @@
 <a href="https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5">
   <img src="https://img.shields.io/badge/Notion-68BDE7?style=flat-square&logo=notion&logoColor=white"/>
 </a> <br/><br/>
+
 ### 🛠️ Skills
 
 #### Languages
