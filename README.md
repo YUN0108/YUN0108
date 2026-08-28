@@ -2,13 +2,19 @@
 
 ### ☎️ Contact
 
-<a href="mailto:jhyun6658@gmil.com">
-  <img src="https://img.shields.io/badge/Email-68BDE7?style=flat-square&logo=gmail&logoColor=white"/>
+<div align="center">
+
+### 🔗 Contact & Portfolio
+
+<a href="mailto:jhyun6658@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a> <br/>
 
 <a href="https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5">
-  <img src="https://img.shields.io/badge/Notion-68BDE7?style=flat-square&logo=notion&logoColor=white"/>
-</a> <br/><br/>
+  <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a><br/><br/>
+
+</div>
 
 ### 🛠️ Skills
 
