@@ -1,9 +1,5 @@
 # Hi, I'm Jihyeon 🦕
 
-### ☎️ Contact
-
-<div align="center">
-
 ### 🔗 Contact & Portfolio
 
 <a href="mailto:jhyun6658@gmail.com">
