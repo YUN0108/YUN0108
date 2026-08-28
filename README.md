@@ -1,8 +1,14 @@
 # Hi, I'm Jihyeon 🦕
 
-📧 [jhyun6658@gmail.com](mailto:jhyun6658@gmail.com) <br/>
-📂 [Notion - Portfolio](https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5)
+### ☎️ Contact
 
+<a href="mailto:jhyun6658@gmil.com">
+  <img src="https://img.shields.io/badge/Email-68BDE7?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5">
+  <img src="https://img.shields.io/badge/Notion-68BDE7?style=flat-square&logo=notion&logoColor=white"/>
+</a>
 ### 🛠️ Skills
 
 #### Languages
