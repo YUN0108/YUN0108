@@ -3,7 +3,7 @@
 ## 🔗 Contact & Portfolio
 
 <a href="mailto:jhyun6658@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jhyun6658%40gmail.com-EFA7B5?style=flat-square&logo=gmail&logoColor=white&labelColor=D85140"/>
+  <img src="https://img.shields.io/badge/Gmail-jhyun6658%40gmail.com-D96B8A?style=flat-square&logo=gmail&logoColor=white&labelColor=D85140"/>
 </a><br/>
 
 <a href="https://app.notion.com/p/PORTFOLIO-f9617756329b834084ae01008ab415e5">
